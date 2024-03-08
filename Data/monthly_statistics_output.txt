@@ -1,0 +1,23 @@
+Monthly statistics:
+  Total sales: 4583270
+January:
+  Total sales in month: 1421330
+  Most popular item: Hot Chocolate Fudge (Quantity: 2673)
+  Most revenue item: Hot Chocolate Fudge (Total Revenue: 320760)
+  Min orders: 1
+  Max orders: 5
+  Average orders: 3.03
+February:
+  Total sales in month: 1422350
+  Most popular item: Hot Chocolate Fudge (Quantity: 2636)
+  Most revenue item: Hot Chocolate Fudge (Total Revenue: 316320)
+  Min orders: 1
+  Max orders: 5
+  Average orders: 3.1
+March:
+  Total sales in month: 1739590
+  Most popular item: Hot Chocolate Fudge (Quantity: 3100)
+  Most revenue item: Hot Chocolate Fudge (Total Revenue: 372000)
+  Min orders: 1
+  Max orders: 5
+  Average orders: 2.96
